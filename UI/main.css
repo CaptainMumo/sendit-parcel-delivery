@@ -48,12 +48,13 @@ header nav{
 
 #columns .column{
     border: 2px solid black;
-    border-left-width: 100%;
+    border-radius: 5px;
+    margin: 4px;
     float:left;
     text-align:center;
     width:30%;
     padding:12px;
-    border-right:grey 4px solid;
+    
 }
 
 footer{
