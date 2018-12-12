@@ -1,8 +1,8 @@
 {
     "version": "2.0.0",
-    "command": "Chrome",
+    "command": "google-chrome",
     "osx": {
-        "command": "chrome.exe"
+        "command": "/usr/bin/google-chrome /usr/share/man/man1/google-chrome.1.gz"
     },
     "args": ["${file}"]
 }
